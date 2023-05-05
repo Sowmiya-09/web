@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+  }
+   th, td {
+    padding: 15px;
+  }
+  .hello {
+    
+        margin-top: 4cm;
+        margin-right: 3cm;
+        margin-left: 3cm;
+        background-color: lavender;
+    
+}
+
+.button {
+    margin-left: 1.5cm;
+    background-color: rgb(61, 11, 212);
+    border: none;
+    color:white;
+    font-size: 20px;
+    height: 1cm;
+    width: 3cm;
+}
